@@ -27,4 +27,4 @@ Integration with webhooks and websockets streamlines testing, facilitating swift
 While a web dashboard is on the horizon, OTP Relay primarily operates through mobile applications along with **integrations for Slack channels and emails**, simplifying feature and configuration management.
 
 > [!NOTE]
-> Development related information and tech stack will be discussed later. But in the backend, I am planning to use either Nodejs+Fastify or Nestjs. Regarding the mobile application developer
+> Development related information and tech stack will be discussed later. But in the backend, I am planning to use either Nodejs+Fastify or Nestjs. Regarding the mobile application developer, any stack can be used.
